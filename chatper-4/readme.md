@@ -1,5 +1,8 @@
 # Conversions and Input
 
+- chomp method
+  - the chomp method takes off any newline characters hanging out at the end of your string.
+
 ## Numbers to strings and back again. 
 - to get the string version of an object, you simply write `.to_s` after it like:
     ```ruby
