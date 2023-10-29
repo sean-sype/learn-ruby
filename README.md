@@ -1,6 +1,11 @@
 # learn-ruby
 Repo to save ruby learnings
 
+# Dev Containers
+- to help keep my local clean, I am using the vscode plugin: Dev Containers. 
+- I have a custom dockerfile, that uses a script from the library-scripts folder, then on launch will install the necessary files to the container on startup.
+- all that is documented here: https://github.com/microsoft/vscode-dev-containers/blob/600571bbfcac5631f45a7068b249350efa99ce21/script-library/docs/ruby.md
+
 # 100 days outline
 
 * Day 1: Introduction to Ruby and the basics of the language. Review data types, variables, and control flow statements.

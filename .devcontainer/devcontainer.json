@@ -1,0 +1,10 @@
+//devcontainer.json
+{
+    "name": "ruby",
+    "image": "mcr.microsoft.com/devcontainers/ruby:1-3.2-bullseye",
+    "features": {
+        "ghcr.io/devcontainers/features/ruby:1": {
+            "version": "latest"
+        }
+    }
+  }
